@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
