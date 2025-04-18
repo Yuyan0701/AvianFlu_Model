@@ -1,6 +1,6 @@
 # Avian Influenza Agent-Based Simulation
 
-This project was created for the **CITS4403 Computational Modelling** unit at UWA.
+This project was created for the **Computational Modelling** unit at UWA.
 
 It simulates the spread of **low pathogenic avian influenza (LPAI)** in poultry farms using an **agent-based model (ABM)** implemented in Python. The simulation explores the impact of environmental factors such as **temperature** and **hygiene** on the transmission dynamics of avian influenza.
 
